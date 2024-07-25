@@ -1,4 +1,3 @@
-//  너무 어렵다 ㅠㅠ
 //
 //  Metronome.swift
 //  BPM180
